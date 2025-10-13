@@ -4,3 +4,4 @@ numpy
 matplotlib
 ruptures
 scikit-learn
+openpyxl
